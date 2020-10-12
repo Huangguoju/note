@@ -18,3 +18,4 @@ yangdajun@raysharp.cn
 媒体资源组：
 yangyunhong@raysharp.cn
 
+开源库常用URL： https://sourceforge.net/create/
